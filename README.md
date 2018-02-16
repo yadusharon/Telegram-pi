@@ -6,4 +6,4 @@ install opencv in the raspberry pi ([this can help you](https://www.pyimagesearc
 
 get telegram bot token by chatting with [botfather](https://telegram.me/BotFather)
 
-give your bot token and telegram id in the conf.jdon file 
+give your bot token and telegram id in the conf.json file 
